@@ -14,4 +14,4 @@ way that the DAO encapsulates all the data access logic to the rest of the appli
 I did this example with a form registration system using CRUD (Create, Read, Update, 
 and Delete), which are basic functions of databases or the persistence layer of all software.
 
-![Image]()
+![Image](https://github.com/BrunoBeltreGuzman/CRUDWithDataAccessObject-DAO/blob/master/Screenshots.png)
